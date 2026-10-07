@@ -24,6 +24,8 @@
 
 - 📫 How to reach me **📧 2406096@itg.ac.id**
 
+- 📫Pertemuan 2 - Unified Modeling Language
+
 - ⚡ Fun fact **I don't always know what I'm doing, but somehow it works. 🚀
     - ☕ Fuel : Coffee. More coffee. n some coffee
     - 🎯 Life goal : Write code that future me won't hate.
