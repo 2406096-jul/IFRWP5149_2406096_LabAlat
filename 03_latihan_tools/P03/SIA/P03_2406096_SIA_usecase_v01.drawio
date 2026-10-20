@@ -1,23 +1,42 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="AizDxFPv2gM9lo_BePse">
-        <mxGraphModel dx="1176" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="880" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="3uF7IBSbmqAY_luIKPzV-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="sistem Akademik" vertex="1">
+                <mxCell id="3uF7IBSbmqAY_luIKPzV-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="Sistem Informasi Akademik" vertex="1">
                     <mxGeometry height="770" width="630" x="110" y="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="3uF7IBSbmqAY_luIKPzV-7" parent="3uF7IBSbmqAY_luIKPzV-1" style="ellipse;" value="kelola jadwal kuliah " vertex="1">
+                <mxCell id="3uF7IBSbmqAY_luIKPzV-7" parent="3uF7IBSbmqAY_luIKPzV-1" style="ellipse;" value="Proses keputusan &#xa;KRS" vertex="1">
                     <mxGeometry height="50" width="120" x="370" y="320" as="geometry"/>
                 </mxCell>
-                <mxCell id="NhmKkWELZU1ly_59vHPt-1" parent="3uF7IBSbmqAY_luIKPzV-1" style="ellipse;" value="Lihat jadwal kuliah " vertex="1">
-                    <mxGeometry height="50" width="120" x="180" y="320" as="geometry"/>
+                <mxCell id="NhmKkWELZU1ly_59vHPt-1" parent="3uF7IBSbmqAY_luIKPzV-1" style="ellipse;" value="Ajukan KRS" vertex="1">
+                    <mxGeometry height="50" width="120" x="160" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="MxHLvCtS9esSAytdT-6K-1" parent="3uF7IBSbmqAY_luIKPzV-1" style="ellipse;" value="Unduh bukti&#xa;pengajuan KRS" vertex="1">
+                    <mxGeometry height="50" width="120" x="150" y="370" as="geometry"/>
+                </mxCell>
+                <mxCell id="MxHLvCtS9esSAytdT-6K-3" edge="1" parent="3uF7IBSbmqAY_luIKPzV-1" source="MxHLvCtS9esSAytdT-6K-1" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="NhmKkWELZU1ly_59vHPt-1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);&quot;&gt;mahasiswa memilih unduh bukti&lt;/span&gt;&lt;/div&gt;">
+                    <mxGeometry relative="1" width="160" x="-0.1724" y="4" as="geometry">
+                        <mxPoint as="offset"/>
+                        <mxPoint x="250" y="360" as="sourcePoint"/>
+                        <mxPoint x="410" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="MxHLvCtS9esSAytdT-6K-4" edge="1" parent="3uF7IBSbmqAY_luIKPzV-1" source="NhmKkWELZU1ly_59vHPt-1" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MxHLvCtS9esSAytdT-6K-6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+                    <mxGeometry relative="1" width="160" as="geometry">
+                        <mxPoint x="300" y="230" as="sourcePoint"/>
+                        <mxPoint x="410" y="230" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="MxHLvCtS9esSAytdT-6K-6" parent="3uF7IBSbmqAY_luIKPzV-1" style="ellipse;" value="Validasi KRS" vertex="1">
+                    <mxGeometry height="50" width="120" x="420" y="200" as="geometry"/>
                 </mxCell>
                 <mxCell id="NhmKkWELZU1ly_59vHPt-3" edge="1" parent="1" source="NhmKkWELZU1ly_59vHPt-2" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="3uF7IBSbmqAY_luIKPzV-7">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="NhmKkWELZU1ly_59vHPt-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
-                    <mxGeometry height="60" width="30" x="780" y="350" as="geometry"/>
+                <mxCell id="NhmKkWELZU1ly_59vHPt-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Dosen Wali" vertex="1">
+                    <mxGeometry height="85" width="40" x="780" y="350" as="geometry"/>
                 </mxCell>
                 <mxCell id="3uF7IBSbmqAY_luIKPzV-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
                     <mxGeometry height="60" width="30" x="40" y="350" as="geometry"/>
@@ -25,6 +44,12 @@
                 <mxCell id="3uF7IBSbmqAY_luIKPzV-6" edge="1" parent="1" source="3uF7IBSbmqAY_luIKPzV-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="NhmKkWELZU1ly_59vHPt-1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="280" y="460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="MxHLvCtS9esSAytdT-6K-2" edge="1" parent="1" source="3uF7IBSbmqAY_luIKPzV-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="MxHLvCtS9esSAytdT-6K-1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="50" y="515" as="sourcePoint"/>
+                        <mxPoint x="265" y="400" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
