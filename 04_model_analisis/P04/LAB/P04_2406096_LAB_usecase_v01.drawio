@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="hksL8hq9lJ6VOhC3AFwo">
-        <mxGraphModel dx="1123" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1676" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -81,10 +81,10 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="Dqghdsn4cWONedc78alS-19" parent="vVcf6nADKySchuScxMF1-1" style="ellipse;dashed=1;" value="Ajukan peminjaman" vertex="1">
-                    <mxGeometry height="50" width="120" x="380" y="500" as="geometry"/>
+                    <mxGeometry height="50" width="120" x="390" y="500" as="geometry"/>
                 </mxCell>
                 <mxCell id="bHotQg7tHb2xi0ziFaV2-3" parent="vVcf6nADKySchuScxMF1-1" style="ellipse;" value="cetak bukti&#xa; pengajuan" vertex="1">
-                    <mxGeometry height="50" width="120" x="390" y="240" as="geometry"/>
+                    <mxGeometry height="50" width="120" x="390" y="270" as="geometry"/>
                 </mxCell>
                 <mxCell id="bHotQg7tHb2xi0ziFaV2-4" parent="vVcf6nADKySchuScxMF1-1" style="ellipse;" value="Ajukan peminjaman" vertex="1">
                     <mxGeometry height="50" width="120" x="390" y="370" as="geometry"/>
