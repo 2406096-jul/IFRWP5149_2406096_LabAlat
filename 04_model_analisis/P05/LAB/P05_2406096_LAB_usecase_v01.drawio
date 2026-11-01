@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="hksL8hq9lJ6VOhC3AFwo">
-        <mxGraphModel dx="1356" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="4800" dy="2171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1833,7 +1833,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="rd9svFvVYFbp-LApZB5D" name="Use Case LAB-UC06 Proses Keputusan Peminjaman">
-        <mxGraphModel dx="1356" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1816" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="Dy_rs0tM1GWSN8TxFQl--0"/>
                 <mxCell id="Dy_rs0tM1GWSN8TxFQl--1" parent="Dy_rs0tM1GWSN8TxFQl--0"/>
@@ -2568,7 +2568,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="IpuqA2woRFI54lpSiFQK" name="Use Case LAB-UC12 Periksa Kondisi Peralatan">
-        <mxGraphModel dx="1356" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1639" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="RaW9UEY0yH-PE3n34eEc-0"/>
                 <mxCell id="RaW9UEY0yH-PE3n34eEc-1" parent="RaW9UEY0yH-PE3n34eEc-0"/>
