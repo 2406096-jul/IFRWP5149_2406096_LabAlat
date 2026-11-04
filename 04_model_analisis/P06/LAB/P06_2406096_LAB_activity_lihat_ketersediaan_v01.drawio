@@ -1,0 +1,77 @@
+<mxfile host="65bd71144e">
+    <diagram id="Bht1sSpca8NzqHOimF1O" name="Page-1">
+        <mxGraphModel dx="1319" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="BA-e-xPajxeUfhTjseap-1" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" value="mahasiswa" vertex="1">
+                    <mxGeometry height="1050" width="190" x="20" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-2" edge="1" parent="BA-e-xPajxeUfhTjseap-1" source="BA-e-xPajxeUfhTjseap-3" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BA-e-xPajxeUfhTjseap-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-3" parent="BA-e-xPajxeUfhTjseap-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="80" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-4" parent="BA-e-xPajxeUfhTjseap-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="membuka fungsi lihat ketersediaan peralatan" vertex="1">
+                    <mxGeometry height="60" width="120" x="35" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-6" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;sistem&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="1050" width="315" x="210" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-7" edge="1" parent="BA-e-xPajxeUfhTjseap-6" source="BA-e-xPajxeUfhTjseap-8" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BA-e-xPajxeUfhTjseap-16">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="157.5" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-8" parent="BA-e-xPajxeUfhTjseap-6" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="menampilkan daftar peralatan serta status ketersediaan nya" vertex="1">
+                    <mxGeometry height="60" width="120" x="97.5" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-10" parent="BA-e-xPajxeUfhTjseap-6" style="html=1;shape=mxgraph.sysml.actFinal;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;labelPerimeter=1;" value="" vertex="1">
+                    <mxGeometry height="40" width="40" x="138.5" y="920" as="geometry"/>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-35" edge="1" parent="BA-e-xPajxeUfhTjseap-6" source="BA-e-xPajxeUfhTjseap-16" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="BA-e-xPajxeUfhTjseap-17">
+                    <mxGeometry relative="1" x="0.2267" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="420"/>
+                            <mxPoint x="280" y="720"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-36" connectable="0" parent="BA-e-xPajxeUfhTjseap-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="[tersedia]" vertex="1">
+                    <mxGeometry relative="1" x="-0.0214" y="-5" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-16" parent="BA-e-xPajxeUfhTjseap-6" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="peralatan tersedia?" vertex="1">
+                    <mxGeometry height="80" width="97.5" x="109.75" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-17" parent="BA-e-xPajxeUfhTjseap-6" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+                    <mxGeometry height="60" width="77.25" x="119.88" y="690" as="geometry"/>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-18" parent="BA-e-xPajxeUfhTjseap-6" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="menampilkan pesan tidak ada yang tersedia" vertex="1">
+                    <mxGeometry height="60" width="120" x="97.5" y="530" as="geometry"/>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-19" edge="1" parent="BA-e-xPajxeUfhTjseap-6" source="BA-e-xPajxeUfhTjseap-16" style="html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BA-e-xPajxeUfhTjseap-18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-20" connectable="0" parent="BA-e-xPajxeUfhTjseap-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;[tidak tersedia]&lt;/span&gt;" vertex="1">
+                    <mxGeometry relative="1" x="0.1612" y="-1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-23" edge="1" parent="BA-e-xPajxeUfhTjseap-6" source="BA-e-xPajxeUfhTjseap-18" style="html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BA-e-xPajxeUfhTjseap-17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-29" edge="1" parent="BA-e-xPajxeUfhTjseap-6" source="BA-e-xPajxeUfhTjseap-17" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="BA-e-xPajxeUfhTjseap-10">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="162.50000000000023" y="930" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BA-e-xPajxeUfhTjseap-30" edge="1" parent="1" source="BA-e-xPajxeUfhTjseap-4" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BA-e-xPajxeUfhTjseap-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
