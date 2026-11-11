@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="hksL8hq9lJ6VOhC3AFwo">
-        <mxGraphModel dx="1226" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1183" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -131,7 +131,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="WljUPuJEw6vVGxRfZBZZ" name="Use Case SIA-UC07 Lihat Kalender Akademik">
-        <mxGraphModel dx="1244" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1021" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="oubwWuUf_bcGg1BgB9qO-0"/>
                 <mxCell id="oubwWuUf_bcGg1BgB9qO-1" parent="oubwWuUf_bcGg1BgB9qO-0"/>
@@ -324,7 +324,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="6dwU_Fu1kDTJJ_gQj6vZ" name="Tabel 5.16 Skenario Use Case SIA-UC08 Input Nilai Mata Kuliah">
-        <mxGraphModel dx="1440" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1406" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="lbFHMH5PfsKLi3HzxsYU-0"/>
                 <mxCell id="lbFHMH5PfsKLi3HzxsYU-1" parent="lbFHMH5PfsKLi3HzxsYU-0"/>
@@ -569,7 +569,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="TNaEKvyeOFLNg6jy_8wF" name="Tabel 5.17 Skenario Use Case SIA-UC09 Lihat KHS">
-        <mxGraphModel dx="1129" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1080" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="L4ibcBsQvVxr3S_ovdax-0"/>
                 <mxCell id="L4ibcBsQvVxr3S_ovdax-1" parent="L4ibcBsQvVxr3S_ovdax-0"/>
@@ -762,7 +762,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="v1X2FzvtRPRbrxlQ7T-C" name="Tabel 5.18 Skenario Use Case SIA-UC10 Kelola Data Mahasiswa">
-        <mxGraphModel dx="1440" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1380" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="uKkojKV7skidHGVT41hB-0"/>
                 <mxCell id="uKkojKV7skidHGVT41hB-1" parent="uKkojKV7skidHGVT41hB-0"/>
@@ -1007,7 +1007,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="HG0mVGJlVev6PfaR8qh7" name="Tabel 5.19 Skenario Use Case SIA-UC11 Tambah Data Mahasiswa">
-        <mxGraphModel dx="791" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1221" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="nq9waDXm64GBTzLWXgwI-0"/>
                 <mxCell id="nq9waDXm64GBTzLWXgwI-1" parent="nq9waDXm64GBTzLWXgwI-0"/>
@@ -1226,7 +1226,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="DS5blY3-6mDVYBVMEqId" name="Tabel 5.20 Skenario Use Case SIA-UC12 Ubah Data Mahasiswa">
-        <mxGraphModel dx="988" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1221" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="6a0eMNW5ti5Z46hTohq1-0"/>
                 <mxCell id="6a0eMNW5ti5Z46hTohq1-1" parent="6a0eMNW5ti5Z46hTohq1-0"/>
@@ -1445,7 +1445,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="QKWuV9hO3FpmqnbqFcAw" name="Tabel 5.21 Skenario Use Case SIA-UC13 Hapus Data Mahasiswa">
-        <mxGraphModel dx="1129" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1080" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="kBiAWkFyTRZp0FFSl0vs-0"/>
                 <mxCell id="kBiAWkFyTRZp0FFSl0vs-1" parent="kBiAWkFyTRZp0FFSl0vs-0"/>

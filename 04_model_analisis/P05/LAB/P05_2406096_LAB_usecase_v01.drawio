@@ -404,7 +404,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="K03T3WUSpRrRM43sGVEj" name="Use Case LAB-UC01 Lihat Ketersediaan Peralatan">
-        <mxGraphModel dx="427" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="723" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="QUKpay3XRWmENki6bAKA-0"/>
                 <mxCell id="QUKpay3XRWmENki6bAKA-1" parent="QUKpay3XRWmENki6bAKA-0"/>
@@ -571,7 +571,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="xhC_Y0D256byjA8lBZRi" name=" Use Case LAB-UC04 Periksa Ketersediaan">
-        <mxGraphModel dx="1408" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="762" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="Idw4wtvSmvZFng_MORoz-0"/>
                 <mxCell id="Idw4wtvSmvZFng_MORoz-1" parent="Idw4wtvSmvZFng_MORoz-0"/>
