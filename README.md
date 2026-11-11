@@ -29,6 +29,7 @@
 - 📫Pertemuan 4 - USE CASE DIAGRAM LANJUTAN: GENERALIZATION DAN COLLABORATION
 - 📫Pertemuan 5 - Skenario Use Case
 - 📫Pertemuan 6 - Activity Diagram
+- 📫Pertemuan 7 - Assessment
 
 - ⚡ Fun fact **I don't always know what I'm doing, but somehow it works. 🚀
     - ☕ Fuel : Coffee. More coffee. n some coffee
